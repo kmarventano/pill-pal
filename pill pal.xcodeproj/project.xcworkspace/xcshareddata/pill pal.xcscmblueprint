@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A5A1AB9CE688DF7B7C8F83D9AF8294A9999C0E27+++D7234F1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A5A1AB9CE688DF7B7C8F83D9AF8294A9999C0E27+++FA751A2" : 9223372036854775807,
+    "A5A1AB9CE688DF7B7C8F83D9AF8294A9999C0E27+++17DA3E0" : 9223372036854775807,
+    "A5A1AB9CE688DF7B7C8F83D9AF8294A9999C0E27+++D7234F1" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D6BC0212-DD18-4D94-BD0B-5165540E7D59",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A5A1AB9CE688DF7B7C8F83D9AF8294A9999C0E27+++FA751A2" : "..\/Documents\/pillpalworkspace\/pill-pal",
+    "A5A1AB9CE688DF7B7C8F83D9AF8294A9999C0E27+++17DA3E0" : "..\/Documents\/pillpalworkspace\/pill-pal",
+    "A5A1AB9CE688DF7B7C8F83D9AF8294A9999C0E27+++D7234F1" : "Semester%20Project\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "pill pal",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "pill pal.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kmarventano\/pill-pal.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A5A1AB9CE688DF7B7C8F83D9AF8294A9999C0E27+++17DA3E0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kmarventano\/pill-pal.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A5A1AB9CE688DF7B7C8F83D9AF8294A9999C0E27+++D7234F1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/github.com\/kmarventano\/pill-pal",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A5A1AB9CE688DF7B7C8F83D9AF8294A9999C0E27+++FA751A2"
+    }
+  ]
+}
