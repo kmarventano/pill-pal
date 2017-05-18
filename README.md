@@ -1,7 +1,7 @@
 # pill pal
 ![logo](documentation/logo.png)
 
-##Overview
+## Overview
 Never forget to take your medication again! pill pal is a medication management app that reminds you to take your dose, wherever you are. Unlike other apps, pill pal makes it easy to add a new medication using the camera, so you don’t have to type up anything.
 
 Scan your medication* with your camera and watch as pill pal creates a customized reminder
